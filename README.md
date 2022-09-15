@@ -9,3 +9,5 @@
 - Chapter 1 : [기초 사항](https://jinwonyoon.notion.site/Chapter-1-1323d7dafa07409c9c68af7fc866bead)
 
 - Chapter 2 : [애플리케이션의 기본 구조](https://jinwonyoon.notion.site/Chapter-2-95748bdc988349e5913c8d84621091f2)
+
+- Chapter 3 : [기본 위젯](https://jinwonyoon.notion.site/Chapter-3-cbe0c75563bf4a4fa43ce4668ac5ef8e)
