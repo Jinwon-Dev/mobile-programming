@@ -11,3 +11,5 @@
 - Chapter 2 : [애플리케이션의 기본 구조](https://jinwonyoon.notion.site/Chapter-2-95748bdc988349e5913c8d84621091f2)
 
 - Chapter 3 : [기본 위젯](https://jinwonyoon.notion.site/Chapter-3-cbe0c75563bf4a4fa43ce4668ac5ef8e)
+
+- Chapter 4 : [레이아웃](https://jinwonyoon.notion.site/Chapter-4-c05dff919d4944a391ffd538dd6e775b)
