@@ -1,15 +1,17 @@
 # mobile-programming
-ì „ê³µ ìˆ˜ì—…ì—ì„œ ë°°ìš°ëŠ” ì•ˆë“œë¡œì´ë“œ í”„ë¡œê·¸ë˜ë°ì— ëŒ€í•´ ê¸°ë¡í•©ë‹ˆë‹¤.
+Àü°ø ¼ö¾÷¿¡¼­ ¹è¿ì´Â ¾Èµå·ÎÀÌµå ÇÁ·Î±×·¡¹Ö¿¡ ´ëÇØ ±â·ÏÇÕ´Ï´Ù.
 
-êµì¬ëŠ” *ê·¸ë¦¼ìœ¼ë¡œ ì‰½ê²Œ ì„¤ëª…í•˜ëŠ” ì•ˆë“œë¡œì´ë“œ í”„ë¡œê·¸ë˜ë°(ì²œì¸êµ­)* ì„ ì‚¬ìš©í•˜ê³ , ë§¤ì£¼ ê³µë¶€í•œ ì˜ˆì œë¥¼ ì €ì¥í•©ë‹ˆë‹¤.
+±³Àç´Â *±×¸²À¸·Î ½±°Ô ¼³¸íÇÏ´Â ¾Èµå·ÎÀÌµå ÇÁ·Î±×·¡¹Ö(ÃµÀÎ±¹)* À» »ç¿ëÇÏ°í, ¸ÅÁÖ °øºÎÇÑ ¿¹Á¦¸¦ ÀúÀåÇÕ´Ï´Ù.
 
 ---
-ë§¤ì£¼ ì§ì ‘ ì‹¤ìŠµí•œ ì½”ë“œëŠ” [Github](https://github.com/Jinwon-Dev/mobile-programming)ì— ì €ì¥í•˜ë©°, ì •ë¦¬í•œ ë‚´ìš©ì€ [Notion](https://jinwonyoon.notion.site/Mobile-Programming-b588dabac8ac4252b586be8cc79e3641)ì— ê¸°ë¡í•©ë‹ˆë‹¤.
+¸ÅÁÖ Á÷Á¢ ½Ç½ÀÇÑ ÄÚµå´Â [Github](https://github.com/Jinwon-Dev/mobile-programming)¿¡ ÀúÀåÇÏ¸ç, Á¤¸®ÇÑ ³»¿ëÀº [Notion](https://jinwonyoon.notion.site/Mobile-Programming-b588dabac8ac4252b586be8cc79e3641)¿¡ ±â·ÏÇÕ´Ï´Ù.
 
-- Chapter 1 : [ê¸°ì´ˆ ì‚¬í•­](https://jinwonyoon.notion.site/Chapter-1-1323d7dafa07409c9c68af7fc866bead)
+- Chapter 1 : [±âÃÊ »çÇ×](https://jinwonyoon.notion.site/Chapter-1-1323d7dafa07409c9c68af7fc866bead)
 
-- Chapter 2 : [ì• í”Œë¦¬ì¼€ì´ì…˜ì˜ ê¸°ë³¸ êµ¬ì¡°](https://jinwonyoon.notion.site/Chapter-2-95748bdc988349e5913c8d84621091f2)
+- Chapter 2 : [¾ÖÇÃ¸®ÄÉÀÌ¼ÇÀÇ ±âº» ±¸Á¶](https://jinwonyoon.notion.site/Chapter-2-95748bdc988349e5913c8d84621091f2)
 
-- Chapter 3 : [ê¸°ë³¸ ìœ„ì ¯](https://jinwonyoon.notion.site/Chapter-3-cbe0c75563bf4a4fa43ce4668ac5ef8e)
+- Chapter 3 : [±âº» À§Á¬](https://jinwonyoon.notion.site/Chapter-3-cbe0c75563bf4a4fa43ce4668ac5ef8e)
 
-- Chapter 4 : [ë ˆì´ì•„ì›ƒ](https://jinwonyoon.notion.site/Chapter-4-c05dff919d4944a391ffd538dd6e775b)
+- Chapter 4 : [·¹ÀÌ¾Æ¿ô](https://jinwonyoon.notion.site/Chapter-4-c05dff919d4944a391ffd538dd6e775b)
+
+- Chapter 5 : [°í±Ş À§Á¬ ´Ù·ç±â](https://jinwonyoon.notion.site/Chapter-5-684aae125a474f6ca9f228a024612294)
