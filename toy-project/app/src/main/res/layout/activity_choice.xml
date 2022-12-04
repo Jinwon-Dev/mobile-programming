@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/meet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="고기"></RadioButton>
+
+
+        <RadioButton
+            android:id="@+id/noodle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="면"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/rice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="밥"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/seafood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="해산물"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/snack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="분식"></RadioButton>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuChoice"
+        android:text="메뉴 선택 후 가게 보기!" />
+
+
+</LinearLayout>
